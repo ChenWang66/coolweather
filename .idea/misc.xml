@@ -4,7 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/activity_main.xml" value="0.19067028985507245" />
-        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/choose_area.xml" value="0.1171875" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/activity_weather.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/aqi.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/choose_area.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/forcast_item.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/forecast.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/now.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/suggestion.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/layout/title.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/xml/litepal.xml" value="0.19067028985507245" />
         <entry key="..\:/AndroidStudioProjects/CoolWeather/app/src/main/res/xml/network_security_config.xml" value="0.11677631578947369" />
       </map>
